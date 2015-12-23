@@ -3,7 +3,8 @@
 FROM debian:8
 MAINTAINER Frank Rosquin <frank.rosquin@gmail.com>
 
-ENV VERSION v4.18-9570-rtm-2015.07.26
+#ENV VERSION v4.18-9570-rtm-2015.07.26
+ENV VERSION v4.19-9599-beta-2015.10.19
 WORKDIR /usr/local/vpnserver
 
 
